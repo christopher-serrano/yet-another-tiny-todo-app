@@ -1,4 +1,4 @@
-package dev.cachapa.yatta
+package dev.cachapa.data
 
 import org.junit.Assert.*
 import org.junit.Test
