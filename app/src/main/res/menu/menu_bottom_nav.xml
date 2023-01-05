@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Id of each item matches the id of the feature specific nav graph (to make bottom menu navigation work).-->
+    <item
+        android:id="@+id/navStatisticsFragment"
+        android:icon="@drawable/ic_pie_chart"
+        android:title="Statistics" />
+    <item
+        android:id="@+id/navHomeFragment"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/navCalendarFragment"
+        android:icon="@drawable/ic_calendar"
+        android:title="Calendar" />
+</menu>
